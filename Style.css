@@ -1,1 +1,14 @@
+h1 {
+  color: forestgreen;
+  text-decoration:;
+
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  font-family: monospace;
+  font-size: 20px;
+  text-decoration: underline
+}
 
