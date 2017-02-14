@@ -7,13 +7,15 @@ h1 {
   color: forestgreen;
   text-decoration:underline;
   text-align: center;
-}
-
-p {
-  text-align: center;
-  font-family: monospace;
   font-size: 20px;
 }
+h2 {
+  color: forestgreen;
+  text-decoration:underline;
+  text-align: center;
+  font-size: 20px;
+}
+
  img {
   float: right;
   width: 270px;
