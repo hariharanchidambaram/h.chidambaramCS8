@@ -2,7 +2,6 @@
 body {
   background-color: tan;
   text-align: center;
-  color: orangered
 }
 h1 {
   color: forestgreen;
@@ -21,7 +20,7 @@ p {
   float: right;
   width: 270px;
   margin: 5px;
-  border-color: saddlebrown;
+  border-color:red;
 border-width: 4px;
   border-style: dashed;
   border-radius: 100px;
