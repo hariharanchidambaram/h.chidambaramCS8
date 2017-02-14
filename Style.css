@@ -11,4 +11,15 @@ p {
   font-size: 20px;
   text-decoration: underline
 }
+img {
+  float: right;
+  width: 270px;
+  margin: 5px;
+  border-color: saddlebrown;
+border-width: 4px;
+  border-style: dashed;
+  border-radius: 100px;
+  height: 200px;
+}
+
 
