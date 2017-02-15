@@ -1,5 +1,5 @@
 
-body {
+#page1 .myDiv{ 
   background-color: tan;
   text-align: center;
 }
@@ -26,6 +26,11 @@ border-width: 5px;
   border-style: dashed;
   border-radius: 100px;
   height: 200px;
+  }
+
+#page2 .myDiv {
+  
 }
+
 
 
