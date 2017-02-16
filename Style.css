@@ -25,6 +25,7 @@ h2 {
 border-width: 5px;
   border-style: dashed;
   height: 200px;
+  float: center;
   }
 
 #page2 .myDiv {
