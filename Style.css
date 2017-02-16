@@ -19,12 +19,12 @@ h2 {
 
  img {
   
-  width: 270px;
+  width: 540px;
   margin: 5px;
   border-color:black;
 border-width: 5px;
   border-style: dashed;
-  height: 200px;
+  height: 400px;
   float: center;
   }
 
