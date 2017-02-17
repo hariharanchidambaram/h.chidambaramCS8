@@ -19,11 +19,11 @@ h2 {
 
  
 
-page2 {
-  background-color: tan;
-  
-}
 
+}
+#page2 .myDiv {
+ background-color: tan;
+}
 page3  {
   background-color: tan;
   
