@@ -1,4 +1,4 @@
 
-{ 
-  background-color: tan;
+body{ 
+  background-color:#d2b48c ;
   }
