@@ -6,4 +6,5 @@ body{
   .paragraph {
     text-align: justify;
     margin-right: 25px;
+    text-align: right;
 }
