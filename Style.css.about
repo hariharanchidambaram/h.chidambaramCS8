@@ -5,5 +5,5 @@ body{
   
   .paragraph {
     text-align: left;
-    margin-right: 25px;
+    margin-right: 500px;
 }
