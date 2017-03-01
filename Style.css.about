@@ -3,7 +3,7 @@ body{
   text-align: right;
   }
   
-  paragraph {
+  .paragraph {
     text-align: left;
     margin-right: 25px;
 }
