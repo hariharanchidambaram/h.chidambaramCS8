@@ -3,7 +3,4 @@ body{
   text-align: right;
   }
   
-  .paragraph {
-    text-align: justify;
-    margin-right: 25px;
-}
+  
