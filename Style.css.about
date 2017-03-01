@@ -1,3 +1,9 @@
 body{ 
   background-color:#ADD8E6 ;
   text-align: center;
+  }
+  
+  .paragraph {
+    text-align: right;
+    margin-right: 25px;
+}
