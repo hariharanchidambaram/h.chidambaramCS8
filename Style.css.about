@@ -4,6 +4,6 @@ body{
   }
   
   .paragraph {
-    text-align: right;
+    text-align: left;
     margin-right: 25px;
 }
