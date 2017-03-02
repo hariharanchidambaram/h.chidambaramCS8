@@ -1,7 +1,7 @@
 
 body{ 
   background-color:#ADD8E6 ;
-  text-align: center;
+  text-align: left;
   }
 h1{
    text-align: center:
