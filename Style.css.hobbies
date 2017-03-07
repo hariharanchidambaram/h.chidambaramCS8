@@ -9,5 +9,5 @@ h1{
    font-type: monospace;
    }
 img{
-border-style: dashed;
+border-style: solid;
 }
