@@ -3,6 +3,13 @@ body{
   background-color: #ADD8E6;
   text-align: center;
 }
+h1 {
+  color: white;
+  background-color: black;
+  text-decoration:underline;
+  text-align: center;
+  font-size: 70px;
+  }
 h1{
    text-align: center:
    font-size: 100px;
@@ -11,10 +18,4 @@ h1{
 img{
 border-style: solid;
 }
-h1 {
-  color: white;
-  background-color: black;
-  text-decoration:underline;
-  text-align: center;
-  font-size: 70px;
-  }
+
