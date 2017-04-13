@@ -5,11 +5,12 @@ h1 {
  
 }
 h2 {
-  text-align: center;
+  text-align:center;
 }
-p { font-size: 20px;
+p { 
+  font-size:20px;
 }
 body{ 
-  background-color: yelllow;
+  background-color:#ADD8E6;
   text-align: center;
 }
