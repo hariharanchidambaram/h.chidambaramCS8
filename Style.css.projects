@@ -2,3 +2,10 @@
 body{ 
   background-color: #ADD8E6;
   text-align: right;
+h1 {
+  color: white;
+  background-color: black;
+  text-decoration: underline;
+  text-align: center;
+  font-size: 70px;
+  }
