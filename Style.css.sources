@@ -11,3 +11,8 @@ h1 {
   text-align: center;
   font-size: 70px;
   }
+h2{
+   text-align: center:
+   font-size: 100px;
+   font-type: monospace;
+   }
