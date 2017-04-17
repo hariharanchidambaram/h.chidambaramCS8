@@ -3,11 +3,18 @@ body{
   background-color: #ADD8E6;
   text-align: center;
   }
-h1{
+h2{
    text-align: center:
    font-size: 100px;
    font-type: monospace;
    }
+   h1 {
+  color: white;
+  background-color: black;
+  text-decoration: underline;
+  text-align: center;
+  font-size: 70px;
+  }
 img{
  border-style: solid;
  }
